@@ -1,0 +1,3 @@
+$password = md5($_POST['password']);
+
+//here md5 should be deleted if login problem occurs
